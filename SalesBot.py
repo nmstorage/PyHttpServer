@@ -1,4 +1,4 @@
-# http://t.me/SmallSales_bot
+# https://t.me/SmallSaller_bot
 # pip install pytelegrambotapi
 
 import telebot
